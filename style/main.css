@@ -98,3 +98,19 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
+
+footer{
+    padding: 50px;
+    background-color: #000;
+    text-align: center;
+}
+
+.credito{
+    text-decoration: none;
+    color: #616161;
+}
+
+.credito a{
+    text-decoration: none;
+    color: #a7a7a7;
+}
